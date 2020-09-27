@@ -9,6 +9,17 @@ We suffer harassment all the time and anyone attacks you when you give your opin
 **What it does**  
 First we extract all tweets with tweepy, then we pass it to azure content moderator to determine the intent of the tweet, if the content is strong and hateful we analyze the profile of the person with ibm personality insight and the natural processing of ibm, we use cloudant, flask and NLP, once we did this we placed it on a map to track the impact their tweets have on other people.
 
+**Project Technologies**
+For this project we use:
+
+* Twitter Stream Data in Raw (Bc we don't have access to the Deloper Twitter API's, our applicattions was rejected)
+* Python = ```['Pandas', 'Anaconda', 'Jupyter Notebooks', 'stat', 'Flask', 'Tweepy']```
+* Azure = ```['Cognitive Services','Text Analysis', 'Content Moderator', 'Azure Notebooks']```
+* Google = ```['Maps', 'Firebase', 'Collab']```
+* GitHub 
+* IBM = ```['IBM Watson', 'Watson NLP', 'Cloudant', 'Personality Insights']
+* Web = ```['HTML', 'CSS', 'JS', 'Node Js']```
+
 **How we built it**  
 We did not have access to the twitter api because the accounts we created blocked them, then we obtained from [here the data](https://archive.org/search.php?query=collection%3Atwitterstream&sort=-publicdate&page=2) that corresponds to the raw tweets to be able to analyze them, then put them on a hate map.
 
