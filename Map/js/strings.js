@@ -1,93 +1,87 @@
-/* Parroquia de los dolores */
-let parroquia = `Histórico templo parroquial, estilo barroco estipite,
-en donde la madrugada de 1810, desde el pórtico del curato,
-Don Miguel Hidalgo pronuncia El Grito de Independencia,
-llamando a la población a unirse al movimiento militar.`
+let heavyBadge = `Aggressive Person`;
 
-/* Jardin Principal */
-let jardin = `El jardín Independencia fue proyectado por Don Álvaro de Osio y Ocampo,
-primer cura de Dolores.<br><br> Miguel Hidalgo le dio uso festivo con corridas de toros,
-peleas de gallos, carreras de caballos y tianguis para venta de mercancias.<br><br>
-Hoy en día, la plaza principal es utilizada como punto de reunión de locales y
-turistas, para disfrutar de lsaatracciones que en ella se ofrecen.`
+/* Tweet1 */
+let twHandle1 = 'Cyndi';
+let lat1 = 35.517491;
+let lng1 = -86.580447;
+let text1 = `Naruto... it's too late,
+nothing you can say will change me! I'm going to kill you and every last person in your beu2026
+https://t.co/dxbyJ5dauW`;
 
+/* Tweet 2 */
+let twHandle2 = ''
+let lat2 = '';
+let lng2 ='';
+let text2 = ``
 
-/* Templo de la 3ERA Orden */
-let t3o = `Esta edificación religiosa, combina dos estilos arquitectónicos: barroco sobrio
-en su exterior y neoclásico en el interior. Admírala, desde el jardín de los compositores;
-de día o de noche es todo un espectáculo.`;
+/* Tweet 3 */
+let twHandle3 = ''
+let lat3 = '';
+let lng3 ='';
+let text3 = ``;
 
-/* Monumento a los Heroes */
-let monh = `Conjunto arquitectónico de 25mts de altura, inaugurado para los 150 años del Inicio
-de la Gesta Libertaria. <br><br> Representa a Morelos resguardando el norte, Aldama defendiendo
-el sur, Hidalgo protegiendo al este y Allende escudando al oeste.`;
+/* Tweet 4 */
+let twHandle4 = ''
+let lat4 = '';
+let lng4 ='';
+let text4 = ``;
 
-/*Casa de Visitas */
-let mcv = `Mansión de estilo barroco tardío.<br> Habitada en 1810 por el subdelegado
-don Nicolás Fernández del Rincón, criollo que comulgaba con las ideas de don Miguel Hidalgo,
-fue aprehendido y recluido en la cárcel por Allende la madrugada del 16 de Septiembre de 1810.<br><br>
-Hoy en día, pertenece al estado de Guanajuato y hospeda a los visitantes distinguidos de la ciudad.`;
+/* Tweet 5*/
+let twHandle5 = ''
+let lat5 = '';
+let lng5 = '';
+let text5 = ``;
 
-/* Parroquia de la Asuncion */
-let pasc = `Su fachada estilo grecoromano y su torre gótica renacentista son dignas de admiración,
-así como las pinturas al fresco en los laterales de la nave central: La Anunciación,
-La Encarnación, El Nacimiento, La Presentación de Jesús en el templo y Jesús predicando entre los doctores.`;
+/* Tweet 6*/
+let twHandle6 = ''
+let lat6 = '';
+let lng6 = '';
+let text6 = ``;
 
-/* Tumba de Jose Alfredo Jimenez */
-let tja= `No te pierdas el impactante mausoleo del canta-autor Dolorense, ubicado en el Panteón
-Municipal.<br><br> Aquí yacen los restos del Rey de la música mexicana, bajo la famosa frase: <br><br><h5>
-"La vida no vale nada..."</h5> <br><br> Sin duda, uno de los lugares favoritos para visitar en Dolores Hidalgo.`;
+/* Tweet 7 */
+let twHandle7 = ''
+let lat7 ='';
+let lng7 ='';
+let text7= ``;
 
-/* Comunidad El Llanito */
-let cllan = `Los habitantes de esta comunidad atesoran la herencia ancestral Otomí, expuesta
-en sus tradiciones, comida e incluso arquitectura.<br><br> Aquí encontrarás "La capilla sixtina de América",
-que no solo tiene frescos pintados por Miguel Martínez de Pocasangre, sino que también podrás apreciar
-el arte "tequitqui".<br><br> Disfruta de la experiencia de los platillos típicos de la cultura Otomí.
-`;
+/* Tweet 8 */
+let twHandle8 = ''
+let lat8 ='';
+let lng8 ='';
+let text8 = ``;
 
-/* Galeria Casa la Luz By Procesos Ceramicos*/
-let cluz = `Conoce sus increíbles piezas elaboradas completamente por métodos tradicionales en Galería
-Casa la Luz. <br><br> Procesos Cerámicos conjunta el trabajo de la cerámica tradicional y el diseño contemporáneo,
-logrando crear piezas únicas. Colaboran con los mejores diseñadores y artistas Nacionales e Internacionales. <br><br>
-No te pierdas la experiencia de conocer su taller y el proceso de elaboración de cerámica, así vomo su decorado
-realizado por artistas locales.<br><br> Visítalos en ambas direcciones y llévate una experienciaúnic de nuestros procesos
-de elaboración y productos.`;
-/* Museo Independencia */
-let mind = `Este edificio, era la antigua cárcel municipal construida a mediados del
-siglo XVIII. <br><br>En la histórica madrugada de 1810, el cura de Dolores demanda al alcalde
-Feliciano, con pistola en mano que libere a los prisioneros.<br><br>
-Visita este museo y conoce aún más historias al rededor de la lucha de Independencia
-y las maravillas que este histórico lugar ofrece.`;
+/* Tweet 9*/
+let twHandle9 = ''
+let lat9 ='';
+let lng9 ='';
+let text9 = ``;
 
-let mindBadge = `Domingo de 9am - 3pm <br> Lunes a Sabado de 9am - 4:45pm`;
+/* Tweet 10 */
+let twHandle10 = ''
+let lat10 ='';
+let lng10 ='';
+let text10 = ``;
 
-/* Museo Bicentenario */
-let mbic = `Lugar donde nació el héroe Dolorense Mariano Abasolo, y que el día de hoy alberga
-la réplica de la campana que tocó el cura Hidalgo. <br><br> Visita éste y otros atractivos
-tales como obras de arte en este fascinante museo.`;
+/* Tweet 11 */
+let twHandle11 = ''
+let lat11 ='';
+let lng11 ='';
+let text11 = ``;
 
-let mbicBadge = `Martes a Domingo <br> de 9am - 5pm`;
+/* Tweet 12 */
+let twHandle12 = ''
+let lat12 ='';
+let lng12 ='';
+let text12 = ``;
 
-/* Museo Casa de Hidalgo */
-let mchi = `El señor cura Don Miguel Hidalgo y Costilla, la habitaría durante su estancia
-en el pueblo de Dolores de 1804 a 1810. <br><br> Ahí se determina el inicio de la Guerra de
-Independencia.`;
+/* Tweet 13*/
+let twHandle13 = ''
+let lat13 ='';
+let lng13 ='';
+let text13 = ``;
 
-let mchiBadge = `Martes a Domingo <br> de 9am -5:30pm`;
-
-/* Museo Jose Alfredo Jimenez */
-let mja = `José Alfredo Jiménez es el máximo exponente de la música vernácula mexicana.<br><br>
-Nació en Dolores Hidalgo el 19 de Enero de 1926 en el hoy museo; Aquí podrás encontrar
-su repertorio musical, exposiciones iconográficas, anécdotas y más, en un ambiente al
-mero estilo mexicano. <br><br> ¡No te lo pierdas!`;
-
-let mjaBadge = `Martes a Domingo <br><br> de 10am -5pm`;
-
-/* Museo del Vino */
-let mdv = `Único en la región, éste museo ofrece una experiencia inigualable, está compuesto
-de cinco salas, en las cuales se expone el origen del vino, el cultivo de la vid,
-el proceso de vinificación, como hacer una cata de vino y los viñedos que existen en el estado.
-<br><br> Para completar la experiencia, cuenta con una cava, terraza y una bella cantina en la
-se ofrecen vinos de la región.`;
-
-let mdvBadge = `Martes a Domingo <br><br> de 10am - 5pm`;
+/* Tweet 14*/
+let twHandle14 = ''
+let lat14 ='';
+let lng14 ='';
+let text14 = ``;
