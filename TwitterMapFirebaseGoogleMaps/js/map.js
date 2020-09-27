@@ -174,8 +174,7 @@ function myMap() {
         var tuitInfo2 = `<div class= card mt-2> <h6 class= card-title> <a href= ${tw}${twHandle2} target="_blank">
         ${twHandle2}</a>`+"</h6>"+"<div class= cover cover-small style= background-image:url("+
         urlProf2+")></div><div class= card-body> <br><p class= card-text>"+
-        text2+"</p><br><span class=badge aggressive badge-info>"+
-        badge2+"</span></div></div>";
+        text2+"</p><br><span class=badge aggressive badge-info>";
 
         // function addMarker(myPos [LatLng], myTitle[] ,myInfo) {
         addMarker(new google.maps.LatLng(

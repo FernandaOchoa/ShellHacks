@@ -60,30 +60,31 @@ let text9 = `That's why he was strictly talking about THIS game, can you guys ju
 let twHandle10 = '@suhoyeols'
 let lat10 ='43.78444';
 let lng10 ='-88.787868';
-let text10 = `I’m not saying I agree, I just read a lot of comments saying that TL couldve won the summer split with Dlift seeing how he won with TSM. It’ll really be super sick if he can show up a strong and solid performance here especially considering Doublelift’s international slipups`;
+let text10 = `where are the drops????? i watched all games today on your site and got no drops and no progress on my watch missions`;
 
 /* Tweet 11 */
-let twHandle11 = 'SKTCreatorT1'
+let twHandle11 = '@SKTCreatorT1'
 let lat11 ='43.193852';
 let lng11 ='-71.572395';
-let text11 = `My response (NOT Riot's) to
-@LiquidDominate
-'s post about toxicity and the reddit thread that blew up. TLDR I somewhat agree with Dom & disagree with a lot of reddit comments. Strict punishment for toxic chat without punishment of toxic gameplay causes feelings of injustice.`;
+let text11 = `I’m not saying I agree, I just read a lot of comments saying that TL couldve won the summer split with Dlift seeing how he won with TSM. It’ll really be super sick if he can show up a strong and solid performance here especially considering Doublelift’s international slipups`;
 
 /* Tweet 12 */
 let twHandle12 = '@blaustoise'
 let lat12 ='37.964253';
 let lng12 ='-91.831833';
-let text12 = `HEAR HEAR! Toxicity in gaming is so so SO prevalent and we were fools to think for a moment that it doesn't extend to relationships and the power dynamic that exists all over the world. It has taken too long to get to this point. There are many who care, and we are with you.`;
+let text12 = `My response (NOT Riot's) to
+@LiquidDominate
+'s post about toxicity and the reddit thread that blew up. TLDR I somewhat agree with Dom & disagree with a lot of reddit comments. Strict punishment for toxic chat without punishment of toxic gameplay causes feelings of injustice.`;
 
 /* Tweet 13*/
-let twHandle13 = '@anitasarkeesian'
+let twHandle13 = '@theghostpsalm'
 let lat13 ='46.879682';
 let lng13 ='-110.362566';
-let text13 = `Their bravery is going to give courage to other women and non-binary folks to speak up and you can rest assured that this is a massive problem affecting and caused by the developers who make the games you love. So let me remind you: Believe women`;
+let text13 = `HEAR HEAR! Toxicity in gaming is so so SO prevalent and we were fools to think for a moment that it doesn't extend to relationships and the power dynamic that exists all over the world. It has taken too long to get to this point. There are many who care, and we are with you.`;
 
 /* Tweet 14*/
-let twHandle14 = ''
+let twHandle14 = '@anitasarkeesian'
 let lat14 ='43.804133';
 let lng14 ='-120.554201';
-let text14 = ``;
+let text14 = `Their bravery is going to give courage to other women and non-binary folks to speak up and you can rest assured that this is a massive problem affecting and caused by the developers who make the games you love. So let me remind you: Believe women
+`;
