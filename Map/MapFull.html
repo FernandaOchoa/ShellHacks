@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link  rel="shortcut icon" href="map-ping.png" type="image/png" />
+  <title>Hate Map</title>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="format-detection" content="telephone=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Icons made by <a href="https://www.flaticon.com/authors/dinosoftlabs" title="DinosoftLabs">DinosoftLabs</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>-->
+
+  <!-- Para combinar fuentes https://fontpair.co/ -->
+  <link
+    href="https://fonts.googleapis.com/css?family=Fjalla+One|Hind|Noto+Sans|Open+Sans&display=swap"
+    rel="stylesheet"
+  >
+
+  <!-- import the bootstrap framework -->
+  <link
+    rel="stylesheet"
+    href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+    crossorigin="anonymous"
+  />
+
+  <link rel="stylesheet" type="text/css" href="css/style.css"/>
+</head>
+
+<!-- Desactivar ver codigo -->
+<script src="js/dsource.js"></script>
+
+<body>
+  <!-- Mapa -->
+  <section>
+    <div class="container-fluid mt-5 text-center">
+        <div class="responsive-iframe mt-5" id='mapa'>
+        </div>
+    </div>
+  </section>
+
+  <!--Scripts del mapa -->
+
+  <script src="js/url.js"></script>
+  <script src="js/strings.js"></script>
+  <script src="js/markerData.js"></script>
+  <script src="js/functionsMaps.js"></script>
+  <script src="js/map.js"></script>
+
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC2eJWkkVWxqq8J9E2GAX4j8AR0ZzfM2dQ&callback=myMap"></script>
+
+</body>
+</html>

@@ -1,0 +1,104 @@
+body{
+  margin: 0em;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+h4,h5 {
+  font-family: 'Fjalla One', sans-serif;
+  color:  #6cb1c1;
+}
+.subtitle {
+  font-family: 'Fjalla One', sans-serif;
+  color: #273c75;
+  font-size: 24px;
+  margin-top: 5;
+}
+
+#mapa {
+  width:100%;
+  height:85%;
+}
+
+.responsive-iframe {
+  position:relative;
+  padding-top:56.25%;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  color: #273c75;
+  font-size: 12px;
+  text-align: center;
+}
+
+#gt {
+  font-size: 16px;
+}
+
+h1 {
+  margin-top: 2;
+  font-family: 'Fjalla One', sans-serif;
+  color:  #273c75;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 2;
+  font-family: 'Fjalla One', sans-serif;
+  color:  #273c75;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+}
+
+.cover {
+  height: 150px;
+  background-image: url(images/cards/parroquiadol.jpg);
+  color: white;
+  background-size: cover;
+  background-position: center;
+}
+img {
+  border-radius: 8px;
+}
+.cover-small {
+  height: 100px;
+  background-blend-mode: normal;
+}
+
+.card {
+  width: 20rem;
+  border: 0 !important;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.card h6 {
+  font-family: 'Hind', sans-serif;
+  color: #44BD32;
+  width: 18rem;
+}
+a[href^="tel:"] {
+color: #ffa502;
+text-decoration: none;
+margin-right: 0.em;
+font-size: 22px;
+}
+
+#menuLink {
+  color: #273c75;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 16px;
+}
+
+#tequila {
+  max-width: 5%;
+  margin: 0;
+	font-size: 1.5em;
+	position: relative;
+	bottom: 22vh;
+	left: 45vw;
+	width: 50vw;
+	z-index: 100;
+}
