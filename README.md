@@ -1,5 +1,5 @@
-# ShellHacks
-Hate Map for Shell Hacks
+# ShellHacks -  Hate Maps
+![](./DevpostImages/Hate%20Maps.png)
 
 ![](./DevpostImages/Full.PNG)
 
