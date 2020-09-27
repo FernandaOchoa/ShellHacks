@@ -15,6 +15,9 @@ body {
 		padding: 1em;
 	}
 }
+.badge {
+	color: #c0392b;
+}
 
 .fake-section {
 	background: #eee;

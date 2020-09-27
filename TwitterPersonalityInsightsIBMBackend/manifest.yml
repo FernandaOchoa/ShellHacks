@@ -1,0 +1,4 @@
+---
+applications:
+ - name: shell-hacks
+   memory: 128M
