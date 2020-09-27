@@ -17,7 +17,7 @@ For this project we use:
 * Azure = ```['Cognitive Services','Text Analysis', 'Content Moderator', 'Azure Notebooks']```
 * Google = ```['Maps', 'Firebase', 'Collab']```
 * GitHub 
-* IBM = ```['IBM Watson', 'Watson NLP', 'Cloudant', 'Personality Insights']
+* IBM = ```['IBM Watson', 'Watson NLP', 'Cloudant', 'Personality Insights']```
 * Web = ```['HTML', 'CSS', 'JS', 'Node Js']```
 
 **How we built it**  
